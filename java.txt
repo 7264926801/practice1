@@ -1,0 +1,35 @@
+every variable has some type 
+
+each and every  data type is cleared defined 
+
+every assignment should be by compiler for type compatiablity 
+becoze if above reason we can conclude is strong ly type programing language.
+
+Q.java is object oriented or not ?
+
+ ----> NOT,
+       
+       1)java is a not concider pure object oriented lsngusge because several oops feature are not satisfied by java (operator overloading , multiple inheritance , etc)
+
+       2) more over dpending on premitive data type which are non object.
+
+
+  ** PRIMITIVE DATA TYPE **
+ 
+             1) Numeric data type                                                   2) Non-Numeric data type
+
+                                                                                           1) char
+                  1) intgral data type                                                     2) String
+
+                     1 -->byte
+                     2 -->short
+                     3 -->int 
+                     4 -->long
+
+
+                  2) Floating-point data type 
+
+                     1 --> Float
+                     2 --> double 
+
+ 1) 1 byte = 1 (bit)
